@@ -64,14 +64,14 @@ Os exercícios demonstraram na prática conceitos fundamentais de POO e padrões
 
 Principais aprendizados:
 
-Herança reduz a duplicidade de código e melhora a reutilização.
+-> Herança reduz a duplicidade de código e melhora a reutilização.
 
-Interfaces promovem desacoplamento e expansibilidade.
+-> Interfaces promovem desacoplamento e expansibilidade.
 
-Padrão Disposable evita problemas de gerenciamento de memória.
+-> Padrão Disposable evita problemas de gerenciamento de memória.
 
-Polimorfismo permite tratar objetos de forma uniforme.
+-> Polimorfismo permite tratar objetos de forma uniforme.
 
-Refatoração melhora a estrutura do sistema e facilita manutenção futura.
+-> Refatoração melhora a estrutura do sistema e facilita manutenção futura.
 
 Esses conceitos auxiliam no desenvolvimento de código profissional em C#, permitindo a expansão dos sistemas sem comprometer sua qualidade e organização.
