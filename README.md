@@ -75,3 +75,5 @@ Principais aprendizados:
 -> Refatoração melhora a estrutura do sistema e facilita manutenção futura.
 
 Esses conceitos auxiliam no desenvolvimento de código profissional em C#, permitindo a expansão dos sistemas sem comprometer sua qualidade e organização.
+
+**UM ADENDO, A PARTIR DO EXERCICIO 3.2, OS CÓDIGOS USADOS FORAM GERADOS POR AI**
